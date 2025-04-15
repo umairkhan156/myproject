@@ -1,5 +1,6 @@
 <?php
-	echo "Welcome Umair Testing commit in new branch";
+	echo "Welcome Umair Testing commit in new branch here is test";
+	echo "thanks";
 	exit;
 ?>
 <?php
