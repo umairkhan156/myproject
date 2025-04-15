@@ -1,6 +1,7 @@
 <?php
 	echo "Welcome Umair Testing commit in new branch here is test";
 	echo "thanks adasas asd"; 
+	echo "This is new change"; 
 	exit;
 ?>
 <?php
