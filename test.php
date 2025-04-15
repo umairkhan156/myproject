@@ -1,4 +1,9 @@
 <?php
+	echo "Welcome Umair Testing commit in new branch here is test";
+	echo "thanks adasas asd"; 
+	exit;
+?>
+<?php
 /**
 * Template Name Posts: Library Post Template
 *
